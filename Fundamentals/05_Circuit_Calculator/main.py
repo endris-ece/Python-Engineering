@@ -182,7 +182,7 @@ def series_resistance_calculator():
     total = 0
     for value in input_values:
         total = total + value
-    result = sum
+    result = total
     return f"Equivalent resistance = {result:.3f} ohm"
 
 def voltage_divider_calculator():
