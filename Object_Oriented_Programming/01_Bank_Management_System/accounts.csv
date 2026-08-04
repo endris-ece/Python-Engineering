@@ -1,0 +1,3 @@
+account_number,customer_Id,first_name,second_name,phone_number,email,address,balance,account_type
+1000036034503,CustId9186,Endris,Mohammed,+251 988776655,idris@gmail.com,Addis Ababa,8900,savings
+1000023325663,CustId8722,abbb,s,+251 999999999,oikj@gmail.com,gerba,3000,business
