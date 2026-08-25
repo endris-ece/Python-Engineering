@@ -1,0 +1,6 @@
+transaction_id,product_id,supplier_id,transaction_type,quantity,date
+transac3246,P001,sup7821,IN,13,2026-08-25
+transac6788,P003,OUT,5,2026-08-25
+transac9782,P003,sup6142,IN,15,2026-08-25
+transac4255,P003,sup4170,IN,20,2026-08-25
+transac2425,prod1980,OUT,3,2026-08-25

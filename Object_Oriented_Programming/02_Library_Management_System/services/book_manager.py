@@ -67,6 +67,7 @@ class BookManager:
             return f"Book not found!!\n"
     
     def update_book(self):
+
         updated_list = []
         def select_option():
             while True:
