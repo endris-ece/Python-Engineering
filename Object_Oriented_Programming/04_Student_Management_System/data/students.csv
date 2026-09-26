@@ -1,0 +1,6 @@
+student_id,first_name,last_name,date_of_birth,gender,phone,email,student_type,department,status
+UGR/8888/19,AHMED,SIED,2005-09-09,MALE,+251 987654321,ahmed@aau.edu.et,UNDERGRADUATE,DEP001,ACTIVE
+UGR/2614/19,Endris,Mohammed,2003-09-08,MALE,+251 942571875,idris@aau.edu.et,UNDERGRADUATE,DEP002,ACTIVE
+UGR/3412/19,Halimah,Kebede,2001-11-19,FEMALE,+251 919832187,hhll@aau.edu.et,UNDERGRADUATE,DEP003,GRADUATED
+PHD/7959/19,Mohammed,Seid,1998-01-25,MALE,+251 921257515,moha@aau.edu.et,PHD,DEP010,ACTIVE
+GR/9681/19,Genet,Meseret,2000-12-02,FEMALE,+251 987654321,TTT@aau.edu.et,GRADUATE,DEP004,GRADUATED

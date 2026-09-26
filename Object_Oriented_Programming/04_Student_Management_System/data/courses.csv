@@ -1,0 +1,10 @@
+course_id,course_code,course_name,credit_hours,department_id
+C001,ECE2101,Digital Logic Design,3,DEP001
+C002,ECE2201,Signals and Systems,3,DEP001
+C003,ECE2301,Electronic Devices,3,DEP001
+C004,CSE2101,Data Structures,3,DEP002
+C005,CSE2201,Database Systems,3,DEP002
+C006,ME2101,Thermodynamics,3,DEP003
+course8444,ECE2121,Orgaic-Chemistry,4,DEP007
+course6245,ECE2671,Evolution of humans,5,DEP009
+course1416,SE2121,Cyber Security,5,DEP005

@@ -1,0 +1,13 @@
+department_id,department_code,name
+DEP001,ECE,Electrical and Computer Engineering
+DEP002,ME,Mechanical Engineering
+DEP003,CE,Civil Engineering
+DEP004,CSE,Computer Science
+DEP005,SE,Software Engineering
+DEP006,PHY,Physics
+DEP007,CHEM,Chemistry
+DEP008,MATH,Mathematics
+DEP009,BIO,Biology
+DEP010,STAT,Statistics
+DEP011,ARCH,Architecture
+DEP012,URP,Urban Planning
